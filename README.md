@@ -1,2 +1,2 @@
 # Homeworks
-ClassMethodDemo- Crud Yapıldı
+Yazılım Geliştirici Yetiştirme Kampı Ödevleri
